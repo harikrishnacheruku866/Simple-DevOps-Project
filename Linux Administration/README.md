@@ -3,7 +3,7 @@
 An essentials notebook for the common knowledge and tasks of a Linux system admin.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
+<a href="[https://github.com/abarrak/linux-sysops-handbook](https://www.youtube.com/@TechWorldWithHari/featured)" alt="YouTube "><img src="https://img.shields.io/badge/github-link-important" /></a>
 
 
 ## Table of Content
